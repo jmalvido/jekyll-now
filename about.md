@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hola soy Jaime y esto es una página en Github para la asignatura de DAW.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[jmalvido@egibide.org](mailto:jmalvido@egibide.org)
