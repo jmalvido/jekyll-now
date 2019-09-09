@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Mi primer Post!
+title: Nuevo post
 ---
 
-Este es mi post.
+Este es mi segundo post.
 
 ![_config.yml]({{ site.baseurl }}/images/Procesos%2Bdel%2BDespliegue%2Bde%2BAplicaciones.jpg)
 
